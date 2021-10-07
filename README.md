@@ -1,2 +1,2 @@
 # the-guardian-web-scraper
-Python web scraper script for news on TheGuardian.com
+NodeJS web scraper script for international news on TheGuardian.com made with Express, Cheerio and Axios

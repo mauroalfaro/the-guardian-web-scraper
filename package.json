@@ -1,0 +1,25 @@
+{
+  "name": "the-guardian-web-scraper",
+  "version": "1.0.0",
+  "description": "NodeJS web scraper script for news on TheGuardian.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauroalfaro/the-guardian-web-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauroalfaro/the-guardian-web-scraper/issues"
+  },
+  "homepage": "https://github.com/mauroalfaro/the-guardian-web-scraper#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
